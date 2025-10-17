@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_add" android:title="Thêm" />
+    <item android:id="@+id/menu_clear" android:title="Xóa tất cả" />
+    <item android:id="@+id/menu_about" android:title="Giới thiệu ứng dụng" />
+</menu>
